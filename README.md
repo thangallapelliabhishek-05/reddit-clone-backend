@@ -1,2 +1,11 @@
-# reddit-clone-backend
-Reddit-style social media backend built using FastAPI, PostgreSQL, SQLAlchemy, JWT Authentication, and Swagger API documentation.
+## Features
+
+- User Authentication (Signup / Login)
+- JWT Token Authentication
+- Password Hashing (bcrypt)
+- Create & Get Posts
+- Create & Get Communities
+- Comments System
+- Upvote / Downvote Voting System
+- PostgreSQL Database Integration
+- Swagger API Documentation
