@@ -9,3 +9,11 @@
 - Upvote / Downvote Voting System
 - PostgreSQL Database Integration
 - Swagger API Documentation
+
+
+
+## API Documentation
+
+Swagger UI (Local):
+
+http://127.0.0.1:8000/docs
